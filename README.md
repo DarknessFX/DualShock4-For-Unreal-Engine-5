@@ -16,7 +16,7 @@
 
 <img src="https://repository-images.githubusercontent.com/591609859/efa605da-cf6c-44ba-847e-60d9a043d6f0" width="640px" /> <br/>
 
-DualShock4 For Unreal Engine 5.1 using Raw Input and Enhanced Input. <br/>
+Playstation DualShock 4 For Unreal Engine 5.1 using Raw Input and Enhanced Input. <br/>
 
 ## About
 
