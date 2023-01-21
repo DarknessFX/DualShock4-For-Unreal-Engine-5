@@ -27,7 +27,7 @@ Originally to make DualShock 4 work with Unreal Engine 4 was just a list of RawI
 - Only works while DualShock 4 is connected via USB.
 - If you have a DualShock4 1st Generation (Product ID 0x05C4) the project will inform you and still work but the DPAD is going to register only one Axis.
 - TopDownShooter Template is used for presentation only, there are no game functionality and it doesn't control like a twin-stick shooter.
-- Basic Enhanced Input Action setup (only Button and Axis - Pressed and Released), for more information how to expand and create more Input Actions check <a href="https://docs.unrealengine.com/5.1/en-US/enhanced-input-in-unreal-engine/" target="_blank">Enhanced Input - An overview of the Enhanced Input Plugin.</a> and <a href="https://dev.epicgames.com/community/learning/tutorials/eD13/unreal-engine-enhanced-input-in-ue5" target="_blank">Enhanced Input in UE5 - Official Tutorial</a>.
+- Basic Enhanced Input Action setup (only Buttons and Axes - Pressed and Released), for more information how to expand and create more Input Actions check <a href="https://docs.unrealengine.com/5.1/en-US/enhanced-input-in-unreal-engine/" target="_blank">Enhanced Input - An overview of the Enhanced Input Plugin.</a> and <a href="https://dev.epicgames.com/community/learning/tutorials/eD13/unreal-engine-enhanced-input-in-ue5" target="_blank">Enhanced Input in UE5 - Official Tutorial</a>.
 
 ## Credits
 
