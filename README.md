@@ -20,7 +20,7 @@ DualShock4 For Unreal Engine 5.1 using Raw Input and Enhanced Input. <br/>
 
 ## About
 
-Originally to make DualShock 4 work with Unreal Engine 4 was just a list of RawInputWindows Plugin settings and was simpler to describe like in this forum post <a href="https://forums.unrealengine.com/t/tutorial-ue4-using-dualshock4-controller-via-usb-ps4-ds4-gamepad/133314" target="_blank">[Tutorial] UE4 using Dualshock4 controller (via USB, PS4 DS4 Gamepad)</a>. Now that Unreal Engine 5.1 is moving the input system to Enhanced Input there are more files and structures to setup and isn't that simple to explain in a forum post, so this project is the easier way to share this information and give a demostration template working whre it can be copied to other projects. <br/>
+Originally to make DualShock 4 work with Unreal Engine 4 was just a list of RawInputWindows Plugin settings and was simpler to describe like in this forum post <a href="https://forums.unrealengine.com/t/tutorial-ue4-using-dualshock4-controller-via-usb-ps4-ds4-gamepad/133314" target="_blank">[Tutorial] UE4 using Dualshock4 controller (via USB, PS4 DS4 Gamepad)</a>. Now that Unreal Engine 5.1 is moving the input system to Enhanced Input there are more files and structures to setup and isn't that simple to explain in a forum post, so this project is the easier way to share this information and give a demostration template working where it can be copied to other projects. <br/>
 
 ## Notes
 
