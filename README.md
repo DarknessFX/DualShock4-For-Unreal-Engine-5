@@ -32,7 +32,7 @@ Originally to make DualShock 4 work with Unreal Engine 4 was just a list of RawI
 ## Credits
 
 Unreal Engine from Epic Games - https://www.unrealengine.com/ <br/>
-Playstation DualShock4 by Arks - https://arks.itch.io/ps4-buttons <br/>
+Playstation DualShock4 Icons by Arks - https://arks.itch.io/ps4-buttons <br/>
 CorentinG78 for sharing the initial DS4+EnhancedInput+RawInput - https://forums.unrealengine.com/t/tutorial-ue4-using-dualshock4-controller-via-usb-ps4-ds4-gamepad/133314/54
 
 ## License
