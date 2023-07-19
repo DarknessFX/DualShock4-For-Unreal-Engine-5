@@ -13,7 +13,7 @@
            DarknessFX @ https://dfx.lv | Twitter: @DrkFX
 
 # NOTE: <br/>
-# This project is discontinued, a new improved project is available at :<br/>
+**This project is discontinued, a new improved project is available at** : <br/>
 https://github.com/DarknessFX/UEPlaystationGamepad
 <br/>
 <br/>
