@@ -12,6 +12,11 @@
 
            DarknessFX @ https://dfx.lv | Twitter: @DrkFX
 
+# NOTE: <br/>
+# This project is discontinued, a new improved project is available at :<br/>
+https://github.com/DarknessFX/UEPlaystationGamepad
+<br/>
+<br/>
 # DualShock4 For Unreal Engine 5.1
 
 <img src="https://repository-images.githubusercontent.com/591609859/7d082190-0d09-44dd-9c24-2451a1da4dc7" width="640px" /> <br/>
